@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "adam-2026-10",
+      "n": "l3D1UMp4djxfzrTtNckOBkGwPZnyDFU0J44Y2pTUYMZcWYHYsbFLSi4h6XhWOCUxSd1Jcu1BubBXoKMlxTzeAUYbDEjckZFp02Wt_Unnq7PKQcL7SeZJ2iU2h-LaRdPVvVHy4_7yHrdKtqAdZXraVqGK3FVJAkNexlNQ49IEIAe11nyDgZ1h08R2-C-wS55eO57emWEbJoxtYCxqzu36MM_j_qScahmzSZYK5aOdMpTgm7sJGHsr2a0N8ZOfvtfXXY0FTXsKYT1uN4fJqO7XE5gEGRiRVr0a3hs5TaaPdmrcBaadLAI_DyGehwjxOwQYoeJnvTWsiyG23cZG5hbICw",
+      "e": "AQAB"
+    }
+  ]
+}
